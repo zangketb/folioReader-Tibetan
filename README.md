@@ -1,7 +1,7 @@
 # folioReader-Tibetan
 
 ## FolioReader-Android及Aria的实现电子书阅读器
-   其实使用起来很方便，好像知乎也用了。也没有深入去研究写，主要看到两个项目优点多，几行代码就搞定！
+   其实使用起来很方便，对藏文完美支持，好像知乎也用了。也没有深入去研究写，主要看到两个项目优点多，几行代码就搞定！
 ## FolioReader Features
  - [x] Custom Fonts
  - [x] Custom Text Size
