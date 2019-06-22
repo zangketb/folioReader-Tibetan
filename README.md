@@ -52,7 +52,7 @@ https://github.com/AriaLyy/Aria/blob/master/ENGLISH_README.md
 ```xml
 <application android:networkSecurityConfig="@xml/network_security_config">
 ```
-之后在相应的/res/xml/network_security_config.xml配置
+之后在相应的/res/xml/network_security_config.xml配置
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -138,5 +138,5 @@ public class MainActivity extends Activity {
 
 }
 ```
-之后运行测试
+之后运行测试
 ![](https://ws1.sinaimg.cn/large/9cd2f3a8ly1fxfr0cogi0j20u01hc42b.jpg)
